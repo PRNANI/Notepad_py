@@ -1,2 +1,2 @@
-# Notepad_py
-Notepad python code
+# Notepad_app
+Notepad app no1
